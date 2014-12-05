@@ -15,6 +15,7 @@ Se trata de llevar una herramienta de control, fácil e intuitiva a las empresas
 ##  ¿Quieres ayudar?
 ...el proyecto participa en este [concurso](http://osl.ugr.es/bases-de-los-premios-a-proyectos-libres-de-la-ugr/) de la Oficina de Software Libre de la Universidad de Granada y usted
 nos puedes ayudar si...
+
 **Sugerir nuevas ideas**: ¿Tienes una idea genial (o casi genial) para Heimdall? Escribeme, quizá pronto con tu ayuda se haga realidad
 
 **Meterte en el código**: No tienes estar dopado en Java para hacer realidad nuevas funcionalidades, matar bugs y demás. BENEFICIOSO sería que  tuvieras una noción de cómo funciona [Play](http://www.playframework.org): su forma de ser es un poco diferente a las famosas "Buenas Prácticas" en Java.
