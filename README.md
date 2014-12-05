@@ -13,6 +13,7 @@ Se trata de llevar una herramienta de control, fácil e intuitiva a las empresas
 - **Twitter**: Si quieres mantenerte informado del progreso del desarrollo de HEIMDALL puedes seguirme en [Twitter](https://twitter.com/heimdall_system).
 
 ##  ¿Quieres ayudar?
+...el proyecto participa en este [concurso](http://osl.ugr.es/bases-de-los-premios-a-proyectos-libres-de-la-ugr/) de la Oficina de Software Libre de la Universidad de Granada y usted
 nos puedes ayudar si...
 **Sugerir nuevas ideas**: ¿Tienes una idea genial (o casi genial) para Heimdall? Escribeme, quizá pronto con tu ayuda se haga realidad
 
